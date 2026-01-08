@@ -15,6 +15,9 @@ module.exports = {
         packageImportPath: 'import com.mynativebridge.MyNativePackage;',
         packageInstance: 'new MyNativePackage()',
       },
+       ios: {
+        podspecPath: './ios/MyNativeBridge.podspec',
+      },
     },
   },
 };

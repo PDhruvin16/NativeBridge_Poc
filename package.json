@@ -14,7 +14,10 @@
     "react-native",
     "camera",
     "object-detection",
-    "ml-kit"
+    "ml-kit",
+    "android",
+    "error"
+    
   ],
   "author": "",
   "license": "MIT",
